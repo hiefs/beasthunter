@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Star Marmot",
+    "kingdom": "Bloodborn",
+    "class": "Beastkin",
+    "location": [
+      {
+        "zone": "Central Thanalan",
+        "x": 18.8,
+        "y": 26.9,
+        "z": 0.4
+      }
+    ],
+    "image": "star_marmot.png",
+    "notes": "Instantly recognized by their over-developed incisors, members of the rodent family—ranging from skulking rats to brush-tailed squirrels—can be found scrabbling about in every corner of Hydaelyn. While cursed by farmers as despoilers of orchards and grain stores, these prolific pests are believed to be the fur-bound servants of the Matron, Nophica, and are thus afforded a grudging measure of tolerance by those of a less agricultural persuasion"
+  }
+]
