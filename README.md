@@ -1,2 +1,1 @@
-# beasthunter
-used for finding monsters
+# TBD
